@@ -1,0 +1,4 @@
+requests
+ortools
+pandas
+openpyxl
